@@ -1,0 +1,82 @@
+body {
+    height: auto;
+    width: 100vw;
+    background-image: url(../img/burger.png);
+    background-repeat: no-repeat;
+}
+
+#head {
+    display: flex;
+    justify-content: center;    
+}
+
+h1 {
+    color: rgb(251, 62, 29);
+    font-size: 5rem;
+    font-weight: bold;
+    background-color: rgba(73, 72, 72, 0.5);
+    border-radius: 15px;
+    padding: 2px 10px 2px 10px;
+}
+
+#burger-list {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding: 10px;
+}
+
+#uneaten {
+    background-color: rgba(73, 72, 72, 0.6);
+    border-radius: 15px;
+    color: rgb(255, 217, 2);
+    font-weight: bolder;
+    font-size: 1.5rem;
+    padding: 10px 10px 10px 30px;
+}
+
+#ate {
+    background-color: rgba(73, 72, 72, 0.6);
+    border-radius: 15px;
+    color: rgb(206, 175, 4);
+    font-weight: bolder;
+    font-size: 1.5rem;
+    padding: 10px 10px 10px 30px;
+}
+
+#adder {
+    display: flex;    
+    align-items: center;
+    flex-direction: column;
+    margin: 30px 0px 0px 30px;
+    
+}
+
+#container {
+    width: auto;
+    background-color: rgba(73, 72, 72, 0.6);
+    border-radius: 15px;
+    padding: 0px 30px 15px 30px;
+}
+
+h2 {
+    color: rgb(251, 62, 29);
+    font-size: 2.5rem;
+    font-weight: bold;
+    line-height: 2.5rem;
+    margin-top: 10px;
+}
+
+.form-group {
+    color: rgb(250, 3, 98);
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding: 10px;
+}
+
+button {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-left: 50px;
+    background-color: rgb(60, 199, 35);
+}
