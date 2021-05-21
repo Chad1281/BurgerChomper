@@ -4,11 +4,11 @@
 
 What better than a way to add burgers that you would like to try and keep track of the ones that you're able to eat. Burger Chomper lets you add a burger name and mark which ones that you have devoured.
 
-![Image of Burger Chomper Page]()
+![Image of Burger Chomper Page](https://github.com/Chad1281/BurgerChomper/blob/main/public/assets/img/burgerPage.png)
 
 ## Deployment
 
-Access the page at [https://chad1281.github.io/star_wars_quiz/](https://chad-burger-chomper.herokuapp.com/)
+Access the page at [https://chad-burger-chomper.herokuapp.com/](https://chad-burger-chomper.herokuapp.com/)
 
 ## Utilization
 
