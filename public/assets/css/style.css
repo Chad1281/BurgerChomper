@@ -2,7 +2,13 @@ body {
     height: auto;
     width: 100vw;
     background-image: url(../img/burger.png);
+    background-size: cover;
     background-repeat: no-repeat;
+}
+
+#bkgdimg {
+    position: fixed;
+    width: 100%;
 }
 
 #head {
